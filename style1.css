@@ -1,0 +1,134 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-size: cover;
+    background-position: center;
+}
+
+.sign-up-form {
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+    .sign-up-form h1 {
+        color: #fff;
+        margin-bottom: 30px;
+        background: #66B2FF;
+        border: 1px solid solid #999;
+    }
+
+.input-box {
+    border: solid;
+    border-color: #E0E0E0;
+    background-color: #fff;
+    color: #000000;
+    display: inline-block;
+    padding: 15px 32px;
+    margin: 4px 2px;
+    width: 235px;
+    height: 20px;
+}
+
+.signup-btn {
+    text-align: center;
+    border: none;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    vertical-align: middle;
+    background-color: #00FFFF;
+    width: 300px;
+    height: 35px;
+}
+
+.facebook-btn {
+    text-align: center;
+    border: none;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+    vertical-align: middle;
+    background-color: #0080FF;
+    width: 300px;
+    height: 35px;
+}
+
+.google-btn {
+    text-align: center;
+    border: none;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    vertical-align: middle;
+    background-color: #FF3333;
+    width: 300px;
+    height: 40px;
+}
+
+.login-btn {
+    border: none;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    vertical-align: middle;
+    background-color: #80FF00;
+    width: 300px;
+    height: 40px;
+}
+
+.forgot {
+    margin-top: 10px;
+    font-size: 10px;
+    display: inline;
+    float: left;
+}
+
+.register {
+    margin-top: 10px;
+    font-size: 10px;
+    display: inline;
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.or {
+    background: #fff;
+    width: 30px;
+    margin: 50px auto 10px;
+    color: #C0C0C0;
+}
+
+hr {
+    margin: -19px auto 10px;
+    width: 80%;
+}
